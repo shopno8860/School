@@ -1,6 +1,7 @@
 .body{
     background-color: #FFF;
     font-family: 'Poppins';
+   
 }
 .top{
     background-color: #F0FFF0;
@@ -34,6 +35,7 @@ button{
 .container{
     margin-bottom: 80px;
     font-family: 'Poppins';
+   
 }
 span{
     color: #21B573;
@@ -116,6 +118,7 @@ font-weight:bolder;
     background-color:#282531;
     height: 370px;
     margin-bottom: 0;
+   
 }
 #ki{
 text-align: center;
@@ -138,4 +141,12 @@ background-color:#282531;
 }
 .hi{
     margin-bottom: 30px;
+}
+.end{
+    margin-bottom: 0;
+}
+#fo{
+    text-align: center;
+    color:white;
+    background-color: #282531;
 }
